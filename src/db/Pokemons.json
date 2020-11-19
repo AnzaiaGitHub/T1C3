@@ -1,0 +1,39 @@
+[
+    {
+        "name": "pikachu",
+        "number": 1,
+        "type":[
+            { "name": "Electrico", "strongAgainst": "Agua", "weakAgainst":"Tierra"}
+        ],
+        "img": "https://i.pinimg.com/736x/dc/ab/b7/dcabb7fbb2f763d680d20a3d228cc6f9.jpg"
+
+    },
+    {
+        "name": "charizard",
+        "number": 2,
+        "type":[
+            { "name": "Fuego", "strongAgainst": "Acero", "weakAgainst":"Agua"}
+        ],
+        "img": "https://e7.pngegg.com/pngimages/762/161/png-clipart-charizard-pokemon-x-and-y-pikachu-charmander-pokemon-mammal-dragon.png"
+
+    },
+    {
+        "name": "agggron",
+        "number": 3,
+        "type":[
+            { "name": "Acero", "strongAgainst": "Hielo", "weakAgainst":"Fuego"}
+        ],
+        "img": "https://static.wikia.nocookie.net/espokemon/images/1/1e/Aggron.png/revision/latest?cb=20170615170906"
+
+    },
+    {
+        "name": "psyduck",
+        "number": 4,
+        "type":[
+            { "name": "Agua", "strongAgainst": "Fuego", "weakAgainst":"Tierra"}
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+
+    }
+
+]
