@@ -18,7 +18,7 @@
 
     },
     {
-        "name": "agggron",
+        "name": "aron",
         "number": 3,
         "type":[
             { "name": "Acero", "strongAgainst": "Hielo", "weakAgainst":"Fuego"}
@@ -27,12 +27,21 @@
 
     },
     {
-        "name": "psyduck",
+        "name": "squirtle",
         "number": 4,
         "type":[
             { "name": "Agua", "strongAgainst": "Fuego", "weakAgainst":"Tierra"}
         ],
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+
+    },
+    {
+        "name": "Magnemite",
+        "number": 5,
+        "type":[
+            { "name": "Electrico", "strongAgainst": "Agua", "weakAgainst":"Tierra"}
+        ],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png"
 
     }
 
